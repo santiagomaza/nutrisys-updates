@@ -1,0 +1,9 @@
+<item>
+    <version>2.1.0</version>
+    <url></url>
+    <changelog>
+        - Se corrigió error de habilitación de boton de Agregar Historia Clínica cuando se requiere insertar una nueva historia clínica para un paciente.
+        - Se agrega módulo de actualización del sistema usando AutoUpdater.
+    </changelog>
+    <mandatory>false</mandatory>
+</item>
